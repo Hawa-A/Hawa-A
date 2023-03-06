@@ -1,6 +1,6 @@
 ### Hi there, my name is Hawa 👋
 
-- 🔭 I’m currently working on...A fully functionin web application 😅
+- 🔭 I’m currently working on...A fully functioning web application 😅
 - 🌱 I’m currently learning...React, I'll be learning Node JS soon (yay how exciting!) 
 - 💬 Ask me about...How I'm finding my coding journey.
 - 📫 How to reach me...Slack is the best way to reach me.
